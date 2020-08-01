@@ -17,3 +17,4 @@
 - http://golang-book.ru/
 - https://sefus.ru/little-go-book/
 - https://habr.com/ru/company/mailru/blog/314804/
+- https://golang.org/doc/effective_go.html
