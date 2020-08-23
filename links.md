@@ -15,3 +15,4 @@
 
 ## Computer Vision 
 - https://habr.com/ru/post/461365/
+- https://github.com/jinwchoi/awesome-action-recognition - list of useful articles
