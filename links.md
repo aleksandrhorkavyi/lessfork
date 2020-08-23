@@ -12,3 +12,6 @@
 
 ## English
 - https://paragraph77.net/
+
+## Computer Vision 
+- https://habr.com/ru/post/461365/
